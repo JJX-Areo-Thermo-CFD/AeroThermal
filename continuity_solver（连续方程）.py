@@ -12,5 +12,3 @@ print("areothermal计算结果")
 print("="*40)
 print(f"[结果]系统质量流量{m_dot:.4f}kg/s")
 print(f"[结果]预计出口流速{v2:.2f}m/s")
-
-
